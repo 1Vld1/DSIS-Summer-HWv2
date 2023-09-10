@@ -1,0 +1,16 @@
+# DSIS-Summer-HW
+
+В качестве выборки в рамках домашнего задания по курсу DSIS была выбрана cicids_static_data
+https://www.kaggle.com/datasets/mohammednamory/cybersecurity
+
+Набор данных "Cyber Security Indexes" включает в себя 79 свойств и 25190 строк. Все свойства типа float, кроме свойства 'Label', которое является значением типа str
+
+
+#Ход работы
+Первым делом проанализировал содержание csv-файла:
+
+
+
+
+
+#Вывод
